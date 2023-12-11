@@ -1,0 +1,27 @@
+{
+  "name": "samraddha-uttarakhand",
+  "version": "1.0.0",
+  "description": "DO you know Uttarakhand?",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokesh-joshi01/Samraddha-Uttarakhand.git"
+  },
+  "keywords": [
+    "Uttarakhand",
+    "Kumaon",
+    "Garwal"
+  ],
+  "author": "Lokesh Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokesh-joshi01/Samraddha-Uttarakhand/issues"
+  },
+  "homepage": "https://github.com/lokesh-joshi01/Samraddha-Uttarakhand#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}

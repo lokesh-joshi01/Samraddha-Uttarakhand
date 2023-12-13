@@ -1,0 +1,67 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 30px;
+    background-image: url("https://img.freepik.com/free-photo/beautiful-scenery-summit-mount-everest-covered-with-snow-white-clouds_181624-21317.jpg?w=996&t=st=1702285802~exp=1702286402~hmac=https://img.freepik.com/free-photo/closeup-shot-tiny-flower-growing-fresh-green-grass-with-blurred-background_181624-22273.jpg?t=st=1702199859~exp=1702200459~hmac=366ff3b06caf8d7e43e6f2dbbb76b8b65778d44fe033bef5791d2f73c6e9e415");
+}
+.header > ul{
+    list-style-type: none;
+    padding: 5px;
+}
+
+.header > ul > li {
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+}
+.header > ul > li:hover {
+    cursor: pointer;
+}
+
+.headerLogo{
+    width: 100px;
+    height: 100px;
+    border-radius: 2px;
+}
+
+ul{
+    display: flex;
+}
+body{
+    text-align: center;
+    background-image: url("https://c0.wallpaperflare.com/preview/716/396/919/mountain-nature-landscape-fade.jpg");
+}
+
+.footer {
+    display: flex;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.footer > ul {
+    justify-content: space-between;
+    list-style-type: none;
+}
+.footer > ul >li {
+    padding: 5px;
+}
+
+.imageSlider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.previousButton{
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px;
+}
+
+.nextButton{
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px;
+}
